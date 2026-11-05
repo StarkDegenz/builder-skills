@@ -29,7 +29,16 @@ Every rule below comes from Nikita Bier's own posts on his X profile (@nikitabie
 11. **No engagement bait.** That means no "reply/follow to get…", no 🚨BREAKING on every post, no "tap to see", and no financial bait. Repeated solicitation gets you removed from rev share. [src](https://x.com/nikitabier/status/2077774853650944028)
 12. **Use AI as an editor, not as the author.** Proofreading with AI is fine. Automated replies are not, and AI media must be labeled. [src](https://x.com/nikitabier/status/2059789636885790911)
 
-> **Rules change fast.** Links went from "lower engagement" (Oct 2025) to "same shot as any post" (Apr 2026). Premium is not a reach lever (Jul 2026). Re-check any rule older than about 6 months on @nikitabier.
+> **Rules change fast.** X's ranking and link rules have flipped more than once. Before relying on a rule, check the linked post's date and re-check @nikitabier for anything newer.
+
+## Examples
+**Filler and bait vs one first-hand insight** (rules 1, 7, 11)
+- Bad: "🚨 BREAKING — reply YES and follow to unlock today's secret."
+- Good: "The part of shipping a small tool that surprised me was naming the first screen. A one-sentence description up front would have saved the rewrite."
+
+**Bare link vs a post that works without the click** (rule 6)
+- Bad: "New write-up: https://example.com/notes"
+- Good: "I wrote up how I cut a setup checklist from twelve steps to four. The useful bit: drop anything the reader can infer. Full note: https://example.com/notes"
 
 ## Checklist before posting
 - [ ] Is it on your one subject, with one useful, first-hand insight?
@@ -40,3 +49,13 @@ Every rule below comes from Nikita Bier's own posts on his X profile (@nikitabie
 - [ ] If it's a video, is it in your own voice, with captions and a hook first?
 - [ ] Is it free of bait, BREAKING, and mass tagging?
 - [ ] Is your audience awake, and is there no burst of posts just before it?
+
+## Trigger tests
+**Should trigger**
+- "review this tweet before I post"
+- "plan my X growth for 3 months"
+- "turn this into an X thread or Article"
+
+**Should not trigger**
+- "write a LinkedIn post"
+- "explain the X API rate limits"

@@ -1,11 +1,11 @@
 ---
 name: nikita-x-skill
-description: Use when writing, reviewing, or planning an X post, reply, Article, or video, or an X growth plan.
+description: Nikita Bier's (X head of product, @nikitabier) own tips on growing on X, turned into rules. Use when writing, reviewing, or planning an X post, reply, Article, or video, or an X growth plan.
 ---
 
 # X posting rules (from Nikita Bier's own posts)
 
-These rules come from posts by X's head of product, @nikitabier. Each rule has one source.
+Every rule below comes from Nikita Bier's own posts on his X profile (@nikitabier), X's head of product. No compilations or third-party articles; each rule links to his original post.
 
 ## Strategy
 1. **Own one subject.** Every day, post one unexpected, first-hand insight on it in under 5 sentences, and keep it up for 6 months. [src](https://x.com/nikitabier/status/1963498520805007470)

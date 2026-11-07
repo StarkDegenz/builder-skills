@@ -1,0 +1,5 @@
+# Optional client UI metadata. Companion names suggest a prompt; they do not import skills automatically.
+interface:
+  display_name: "DeFi UI/UX"
+  short_description: "DeFi frontends, CTAs, positions and financial interactions"
+  default_prompt: "Use $defi-app-ui-ux with $defi-data-display and $impeccable to build this DeFi frontend from the product brief and existing context."

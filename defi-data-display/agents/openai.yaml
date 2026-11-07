@@ -1,0 +1,5 @@
+# Optional client UI metadata. Companion names suggest a prompt; they do not import skills automatically.
+interface:
+  display_name: "DeFi Data Display"
+  short_description: "DeFi data, position layouts and accessible disclosure"
+  default_prompt: "Use $defi-data-display with $defi-app-ui-ux and $impeccable to build clear DeFi screens with readable summaries and accessible details."

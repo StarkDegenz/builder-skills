@@ -9,3 +9,4 @@ Agent skills distilled from the best builders' own advice, sourced and ready to 
 - [emil-product-ux](./emil-product-ux/) — Emil Kowalski (@emilkowalski) product UX feel tips for agents. Use when fixing perceived speed, toast/ephemeral feedback, touch vs scroll friction, mobile-web papercuts, readable body type, text-wrap, composer affordances, in-page find in accordions, worst-case content stress tests, or validating why before hi-fi prototypes - complementary to emil-agent-skills-ui.
 - [x-algo-latest](./x-algo-latest/) — Latest X algorithm updates: ranking weights, cold-start boost, AI-reply detection, how to apply them and refresh them.
 - [defi-app-ui-ux](./defi-app-ui-ux/) — DeFi frontend UX: CTA hierarchy, positions, wallets, permissions, signing and transaction recovery.
+- [defi-data-display](./defi-data-display/) — DeFi data display: yield as estimate vs realized, fees breakdown, amounts and precision, what stays visible vs in a disclosure.
